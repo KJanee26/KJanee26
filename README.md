@@ -11,8 +11,6 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
-
-[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/khadijah-w-119597124
 
 <!--
