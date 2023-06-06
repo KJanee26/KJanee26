@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khadijah! <br/><a href="https://github.com/khadijah-w">Programmer</a>, <a href="https://www.linkedin.com/in/KJanee26/">Cybersecurity Professional</a>
+<h1>Hi, I'm Khadijah! <br/><a href="https://github.com/khadijah-w">Programmer</a>, <a href="https://www.linkedin.com/in/Khadijah-w-119597124/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Network Systems Engineer:</h2>
 
