@@ -1,5 +1,5 @@
 
-<h2> 👩‍💻: About Me!</h2>
+<h2> 👩‍💻 About Me!</h2>
 Cybersecurity Junior with a passion for digital forensics, threat hunting and incident response. Currently building my Security Analyst skills using various certifications and projects/labs.
 
 - :calendar: I’m currently working on completing my Certified in Cybersecurity through (ISC)2 and CompTia Security+.
