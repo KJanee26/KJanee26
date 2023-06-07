@@ -5,9 +5,14 @@ Cybersecurity Junior with a passion for digital forensics, threat hunting and in
 - :calendar: I’m currently working on completing my Certified in Cybersecurity through (ISC)2 and CompTia Security+.
 - :scroll: I am pursuing my Bachoelor of Science in Software Engineering with Warden Governor Univeristy.
 <h2> 🕵️‍♀️: Cybersecurity Projects:</h2>
-<b>Incident Response </b>
+<b>Post-Incident Response </b>
 
 - <b> https://github.com/KJanee26/Incident-Report </b>
+
+<b>Leadership Briefing Post-Incident </b>
+
+- <b>https://github.com/KJanee26/Leadership-Briefing-Post-Incident </b>
+
 
 
 <h2>:trophy: Certifications </h2>
