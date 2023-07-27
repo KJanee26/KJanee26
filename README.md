@@ -5,6 +5,10 @@ Cybersecurity Junior with a passion for digital forensics, threat hunting and in
 - :calendar: I’m currently working on completing my Certified in Cybersecurity through (ISC)2 and CompTia Security+.
 - :scroll: I am pursuing my Bachoelor of Science in Software Engineering with Warden Governor Univeristy.
 <h2> 🕵️‍♀️: Cybersecurity Projects:</h2>
+<b>Failed RDP to IP Geolocation
+  
+- <b> https://github.com/KJanee26/Failed-RDP-to-IP-Geolocation- </b>
+
 <b>Post-Incident Response </b>
 
 - <b> https://github.com/KJanee26/Incident-Report </b>
@@ -18,8 +22,8 @@ Cybersecurity Junior with a passion for digital forensics, threat hunting and in
 <h2>:trophy: Certifications </h2>
 
 - Thinkful Bootcamp Cybersecurity Certificate - June 2023
-- (ISC)2 Certified in Cybersecurity - Test Date June 28, 2023
-- CompTia Security Plus - Test Date July 26, 2023
+- (ISC)2 Certified in Cybersecurity - Test Date Aug 30, 2023
+- CompTia Security Plus - Test Date Sep 27, 2023
 
 <h2> 🤳 Connect with me:</h2>
 Linkedin: https://linkedin.com/in/khadijah-w-119597124
