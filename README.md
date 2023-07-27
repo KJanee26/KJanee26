@@ -2,7 +2,8 @@
 <h2> 👩‍💻 About Me!</h2>
 Cybersecurity Junior with a passion for digital forensics, threat hunting and incident response. Currently building my Security Analyst skills using various certifications and projects/labs.
 
-- :calendar: I’m currently working on completing my Certified in Cybersecurity through (ISC)2 and CompTia Security+.
+- :calendar: Completed Cybersecurity Technical Training Through Thinkful Bootcamp
+             Completed Cybersecurity Course Through (ISC)2 
 - :scroll: I am pursuing my Bachoelor of Science in Software Engineering with Warden Governor Univeristy.
 <h2> 🕵️‍♀️: Cybersecurity Projects:</h2>
 <b>Failed RDP to IP Geolocation
